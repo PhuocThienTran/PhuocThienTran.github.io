@@ -7,3 +7,8 @@ p.intro1 {
   color: indigo;
   text-align: center;
 }
+.faceicon {
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
