@@ -37,3 +37,13 @@ p.intro1 {
 .topnav-right {
   float: right;
 }
+.shortintro {
+  text-align: center;
+  font-size: 25px;
+  color: indigo;
+}
+.shortexplain {
+  text-align: center;
+  font-size: 20px;
+  color: indigo;
+}
