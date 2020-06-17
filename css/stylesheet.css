@@ -14,3 +14,23 @@ p.intro1 {
   margin-left: auto;
   margin-right: auto;
 }
+.topnav {
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  color: blue;
+}
+.topnav a.active {
+  color: blue;
+}
+.topnav-right {
+  float: right;
