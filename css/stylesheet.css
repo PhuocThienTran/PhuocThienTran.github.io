@@ -10,6 +10,7 @@ p.intro1 {
 .faceicon {
   border-radius: 50%;
   display: block;
+  text-align: center;
   margin-left: auto;
   margin-right: auto;
 }
