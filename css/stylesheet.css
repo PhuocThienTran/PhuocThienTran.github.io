@@ -1,1 +1,9 @@
-
+h1.intro {
+  color: indigo;
+  text-align: center;
+}
+p.intro1 {
+  font-size: 20px;
+  color: indigo;
+  text-align: center;
+}
