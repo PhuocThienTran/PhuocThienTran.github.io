@@ -88,8 +88,8 @@ table th, td {
   align-items: center;
 }
 .workexperiencereview {
-  margin: 10px;
-  border: 2pt solid black;
+  margin: 5px;
+  border: 5pt solid black;
   width: 180px;
 }
 .workexperience img {
