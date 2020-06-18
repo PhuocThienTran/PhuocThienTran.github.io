@@ -88,13 +88,13 @@ table th, td {
   align-items: center;
 }
 .workexperiencereview {
-  margin: 5px;
-  border: 5pt solid black;
-  width: 180px;
+  margin: 10px;
+  box-sizing: border-box;
+  
 }
 .workexperience img {
   width: 100%;
-  height: auto;
+  height: 100%;
   flex-grow: 1;
 }
 .workexperiencedesc {
