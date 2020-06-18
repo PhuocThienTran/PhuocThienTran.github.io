@@ -86,6 +86,7 @@ table th, td {
   flew-wrap: row;
   justify-content: center;
   align-items: center;
+  align-content: center;
 }
 .workexperiencereview {
   margin: 10px;
@@ -93,6 +94,10 @@ table th, td {
   width: 100%;
   height: 100%;
   flex-grow: 1;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 p.lighter {
   font-weight: lighter;
