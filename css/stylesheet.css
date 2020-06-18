@@ -76,3 +76,6 @@ table.language {
   font-size: 15px;
   color: indigo;
 }
+table th, td {
+  border: 1pt solid black;
+}
