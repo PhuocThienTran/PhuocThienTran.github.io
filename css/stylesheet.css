@@ -52,8 +52,8 @@ p.intro1 {
   float: right;
 }
 
-/* MAIN CONTENT */
-.shortintro {
+/* ABOUT ME */
+.aboutme {
   text-align: center;
   font-size: 25px;
   color: indigo;
@@ -61,7 +61,7 @@ p.intro1 {
   margin-left: auto;
   margin-right: auto;
 }
-.shortexplain {
+.aboutmeexplain {
   text-align: center;
   font-size: 20px;
   color: indigo;
