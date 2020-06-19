@@ -71,7 +71,7 @@ table th, td {
   border: 1pt solid black;
 }
 
-/* EDUCATION & WORK EXPERIENCE */
+/* EDUCATION & WORK EXPERIENCE & PROJECTS & CONTACT */
 .workexperience {
   display: flex;
   flew-wrap: row;
