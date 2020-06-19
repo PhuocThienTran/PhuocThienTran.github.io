@@ -49,6 +49,8 @@ p.intro1 {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  text-decoration: underline;
+  font-weight: bold;
 }
 .aboutmeexplain {
   text-align: center;
