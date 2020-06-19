@@ -88,7 +88,9 @@ table th, td {
 .workexperiencereview a {
   text-decoration: none;
 }
+.homescroll {
+  text-align: center;
+}
 .homescroll a {
   text-decoration: none;
-  text-align: center;
 }
