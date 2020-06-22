@@ -97,5 +97,7 @@ table th, td {
 .email {
   font-size: 20px;
   text-align: center;
+}
+.email a {
   text-decoration: none;
 }
