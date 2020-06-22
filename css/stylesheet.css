@@ -94,3 +94,6 @@ table th, td {
 .homescroll a {
   text-decoration: none;
 }
+.email {
+  font-size: 15px;
+  text-align: center;
