@@ -1,5 +1,5 @@
 <h1>It's a pleasure to meet you.</h1>
-<h3>This is my professional resume</h3>
+<h2>This is my professional resume</h2>
   <b>I'm Thien Tran, an undergraduate software developer.</b>
   <ul>
     <li>Studying at Griffith University. Situated in the Gold Coast, Australia.</li>
