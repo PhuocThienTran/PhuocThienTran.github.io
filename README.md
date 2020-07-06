@@ -1,4 +1,4 @@
-[Phuoc Thien Tran](https://github.com/PhuocThienTran/PhuocThienTran.github.io/blob/master/0.jpeg)
+![Phuoc Thien Tran](https://github.com/PhuocThienTran/PhuocThienTran.github.io/blob/master/0.jpeg)
 
 # It's a pleasure to meet you.
 ## This is my professional resume
