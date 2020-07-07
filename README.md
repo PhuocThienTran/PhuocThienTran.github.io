@@ -1,7 +1,7 @@
 ![Phuoc Thien Tran](https://github.com/PhuocThienTran/PhuocThienTran.github.io/blob/master/0.jpeg)
 
 # It's a pleasure to meet you.
-## This is my professional resume
+### This is my professional resume
   <b>I'm Thien Tran, an undergraduate aspired to become a software developer.</b>
   <ul>
     <li>Studying at Griffith University. Situated in the Gold Coast, Australia.</li>
