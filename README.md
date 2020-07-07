@@ -8,5 +8,7 @@
     <li>I have a burning passion in learning and working with the latest languages.</li>
     <li>The following are my past and current repositories, that are for my business and university courses.</li>
     <li>So far, I have worked with HTML5, CSS3, PHP7, SwiftUI, Adobe Illustrator and InDesign, Google Firebase and Sites, and iMovie.</li>
+    <li>I focus on the human centred design aspect on all of my projects, whilst strategically enhancing the user interfaces for every update to maintain the highest level of user experience.</li>
+  <li>You can explore my current iOS apps on the [App Store](bitly.com/PhuocThienTran)</li>
   </ul>
   
