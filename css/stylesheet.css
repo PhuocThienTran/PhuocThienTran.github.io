@@ -60,17 +60,6 @@ p.intro1 {
   margin-left: auto;
   margin-right: auto;
 }
-table.language {
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-  font-size: 15px;
-  color: indigo;
-}
-table th, td {
-  border: 1pt solid black;
-}
-
 /* EDUCATION & WORK EXPERIENCE & PROJECTS & CONTACT */
 .workexperience {
   display: flex;
