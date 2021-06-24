@@ -11,7 +11,7 @@
   </ul>
   
 ## You can explore my current iOS apps on the [App Store](bitly.com/PhuocThienTran)
-  Subsequently, all of my current iOS apps' repositories are here: [QuickNet](https://github.com/PhuocThienTran/QuickNet), [QuickFix](https://github.com/PhuocThienTran/QuickFix), and [Quick+](https://github.com/PhuocThienTran/Quick-)
+  Subsequently, all of my current iOS apps' repositories are here: [QuickNet](https://github.com/PhuocThienTran/QuickNet), [QuickFix](https://github.com/PhuocThienTran/QuickFix), and [Quick+](https://github.com/PhuocThienTran/Quick-).
   
 ## Got any inquries? [Drop me an Email](mailto:donnyquickinc@gmail.com)
 
