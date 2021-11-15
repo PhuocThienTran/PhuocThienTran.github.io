@@ -1,11 +1,15 @@
-## Welcome to GitHub Pages
+### Welcome to my resume! 🤗
 
-You can use the [editor on GitHub](https://github.com/PhuocThienTran/PhuocThienTran.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+- 🖥️ I’m currently working on a brand new YouTube programming series and several clients' projects!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 🏫 I’ve university or junior level knowledge in Python programming, Ionic/Angular w/ TypeScript and node.js front-end app development, Laravel, ELoquent ORM, PHP, Sqlite full-stack web-app development and JavaScript w/ p5js indie game development.
 
-### Jekyll Themes
+- 🤝 I’m looking for help with C and Unity game development.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PhuocThienTran/PhuocThienTran.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- 🇻🇳 Ask me about Vietnamese history, food, and culture! Also, for any contributions in my capacity to help your project(s) succeed!
+
+- ⚡ Fun fact: I speak fluent English, Vietnamese, and basic French aside from my programming and markup languages.
+
+- 📫 [You can reach me here!](donnyquickinc@gmail.com) 
 
 #### <a href="https://www.paypal.me/thientran2702">☕️ Buy me a coffee?</a>  
