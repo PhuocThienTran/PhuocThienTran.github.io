@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 
 - 📫 [You can reach me here!](donnyquickinc@gmail.com) 
 
-test ssh connection in readme
-
 #### <a href="https://www.paypal.me/thientran2702">☕️ Buy me a coffee?</a>  
