@@ -6,9 +6,16 @@
 Here are some ideas to get you started:
 -->
 
-- 🏫 I’ve university or junior level knowledge in: ```APIs: Facebook Graph, Flickr, Spoonacular, Weather, and Genius, jQuery, Handlebars, React full-stack web-app development``` | ```Aurelia.js, Doctrine, MySQL, PHP, Postman, Symfony full-stack development``` | ```Git``` | ```Ionic/Angular w/ TypeScript and node.js front-end app development``` | ```JavaScript OOP``` | ```Laravel, ELoquent ORM, PHP, Sqlite full-stack web-app development``` | ```Python OOP ```  
+- 🏫 I’ve university or junior level knowledge in: 
+- ```APIs: Facebook Graph, Flickr, Spoonacular, Weather, and Genius, jQuery, Handlebars, React full-stack web-app development``` 
+- ```Aurelia.js, Doctrine, MySQL, PHP, Postman, Symfony full-stack development``` 
+- ```Git```
+- ```Ionic/Angular w/ TypeScript and node.js front-end app development```
+- ```JavaScript OOP```
+- ```Laravel, ELoquent ORM, PHP, Sqlite full-stack web-app development```
+- ```Python OOP ```  
 
-- 🤝 I’m looking for help with C and Unity game development.
+- 🤝 I’m looking QA opportunities.
 
 - 🇻🇳 Ask me about Vietnamese history, food, and culture! Also, for any contributions in my capacity to help your project(s) succeed!
 
