@@ -6,4 +6,4 @@
 Here are some ideas to get you started:
 -->
 
-I'm currently a software developer at Griffith University
+Currently a Development Engineer - Multimedia @ Griffith University
